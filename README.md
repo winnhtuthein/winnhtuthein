@@ -1,6 +1,6 @@
 # Hi, I'm Winn Htut Hein from Myanmar
 
-I'm in high school and I ship. Two live apps so far: a daily planner and a tool that keeps secrets out of AI chats.
+I love building real-world solutions and shipping them to production. 
 
 ## Projects
 
@@ -8,6 +8,8 @@ I'm in high school and I ship. Two live apps so far: a daily planner and a tool 
 
 **[ZeroLeak](https://github.com/winnhtuthein/zeroleak)**: paste code and get it back with secrets blacked out, before it goes into an AI chat. Runs entirely in your browser. [Live site](https://zeroleak-three.vercel.app)
 
-## How I work
+How I Build
+I leverage modern tools like AI (Claude) to accelerate my development process and rapidly prototype ideas. My goal with every project is to deeply understand the underlying architecture so I can continually grow as a self-reliant engineer.
+Use code with caution.
 
-I build with AI help (Claude), and I'm learning to understand every part well enough to build the next one myself.
+
